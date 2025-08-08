@@ -20,4 +20,3 @@ Data
 The four NetCDF files in "data/" are released under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence. You are free to share and adapt the data for any purpose, provided you give appropriate credit.
 
 How to cite
-Surname, N. et al. (2025). Gridded δ²H and δ¹⁸O dataset for mainland China (v1.0). GitHub. https://github.com//   DOI: 10.5281/zenodo.XXXXXXX
